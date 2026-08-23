@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.quick.volume.app-mergeDebugResources-33:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MD RONY HOSSEN\\.gradle\\caches\\9.7.1\\transforms\\fac4ce537a7adae0948416796940666b\\transformed\\material-1.14.0\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,69",
+                        "endOffsets": "119,189"
+                    }
+                }
+            ]
+        }
+    ]
+}

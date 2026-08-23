@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\MD RONY HOSSEN\\.gradle\\daemon\\9.7.1\\com.quick.volume.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\MD RONY HOSSEN\\.gradle\\daemon\\9.7.1\\com.quick.volume.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.quick.volume.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.quick.volume.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MD RONY HOSSEN\\.gradle\\daemon\\9.7.1\\com.quick.volume.app-mergeDebugResources-34:\\layout\\widget_ringer_mode.xml",
+        "source": "C:\\Users\\MD RONY HOSSEN\\.gradle\\daemon\\9.7.1\\com.quick.volume.app-main-37:\\layout\\widget_ringer_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\MD RONY HOSSEN\\.gradle\\daemon\\9.7.1\\com.quick.volume.app-mergeDebugResources-34:\\layout\\item_volume_slider.xml",
+        "source": "C:\\Users\\MD RONY HOSSEN\\.gradle\\daemon\\9.7.1\\com.quick.volume.app-main-37:\\layout\\item_volume_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\MD RONY HOSSEN\\.gradle\\daemon\\9.7.1\\com.quick.volume.app-mergeDebugResources-34:\\layout\\notch_notification.xml",
+        "source": "C:\\Users\\MD RONY HOSSEN\\.gradle\\daemon\\9.7.1\\com.quick.volume.app-main-37:\\layout\\notch_notification.xml"
+    }
+]

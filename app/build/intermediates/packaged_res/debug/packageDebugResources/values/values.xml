@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="background">#F8F9FF</color>
+    <color name="error">#BA1A1A</color>
+    <color name="errorContainer">#FFDAD6</color>
+    <color name="onBackground">#191C20</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="onErrorContainer">#410002</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onPrimaryContainer">#001D36</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="onSecondaryContainer">#101C2B</color>
+    <color name="onSurface">#191C20</color>
+    <color name="onSurfaceVariant">#43474E</color>
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="onTertiaryContainer">#251431</color>
+    <color name="outline">#73777F</color>
+    <color name="outlineVariant">#C3C7CF</color>
+    <color name="primary">#0061A4</color>
+    <color name="primaryContainer">#D1E4FF</color>
+    <color name="secondary">#535F70</color>
+    <color name="secondaryContainer">#D7E3F7</color>
+    <color name="surface">#F8F9FF</color>
+    <color name="surfaceContainer">#ECEDF4</color>
+    <color name="surfaceContainerHigh">#E6E8EE</color>
+    <color name="surfaceContainerHighest">#E0E2E9</color>
+    <color name="surfaceContainerLow">#F2F3F9</color>
+    <color name="surfaceContainerLowest">#FFFFFF</color>
+    <color name="surfaceVariant">#DFE2EB</color>
+    <color name="tertiary">#6B5778</color>
+    <color name="tertiaryContainer">#F2DAFF</color>
+    <string name="app_name">QuickVolume</string>
+    <string name="dnd_explanation">Android requires \"Do Not Disturb\" access to switch between Normal, Vibrate and Silent. Tap to grant it.</string>
+    <string name="floating_bubble_desc">Floating volume control overlay</string>
+    <string name="floating_bubble_title">On-Screen Bubble</string>
+    <string name="floating_bubble_toggle">Show floating volume bubble</string>
+    <string name="grant_dnd_access">Grant Do Not Disturb access</string>
+    <string name="label_volume_streams">Volume Streams</string>
+    <string name="mode_dnd">DND</string>
+    <string name="mode_normal">Normal</string>
+    <string name="mode_vibrate">Vibrate</string>
+    <string name="overlay_permission_needed">Please allow \"Display over other apps\" so the floating bubble can appear.</string>
+    <string name="percentage_format">%1$d%%</string>
+    <string name="ringer_mode_label">Ringer Mode</string>
+    <string name="title_alarm">Alarm</string>
+    <string name="title_call">Voice Call</string>
+    <string name="title_media">Media</string>
+    <string name="title_notification">Notification</string>
+    <string name="title_ring">Ringtone</string>
+    <string name="volume_dashboard">Volume Dashboard</string>
+    <string name="volume_panel">Volume Panel</string>
+    <string name="widget_name">QuickVolume Controls</string>
+    <style name="Theme.QuickVolume" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer</item>
+
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/onSecondary</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondaryContainer</item>
+
+        <item name="colorTertiary">@color/tertiary</item>
+        <item name="colorOnTertiary">@color/onTertiary</item>
+        <item name="colorTertiaryContainer">@color/tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/onTertiaryContainer</item>
+
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/onSurface</item>
+        <item name="colorSurfaceVariant">@color/surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/onSurfaceVariant</item>
+        <item name="colorOutline">@color/outline</item>
+
+        
+        <item name="colorSurfaceContainer">@color/surfaceContainer</item>
+        <item name="colorSurfaceContainerHigh">@color/surfaceContainerHigh</item>
+        <item name="colorSurfaceContainerHighest">@color/surfaceContainerHighest</item>
+        <item name="colorSurfaceContainerLow">@color/surfaceContainerLow</item>
+        <item name="colorSurfaceContainerLowest">@color/surfaceContainerLowest</item>
+
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/onError</item>
+
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+</resources>

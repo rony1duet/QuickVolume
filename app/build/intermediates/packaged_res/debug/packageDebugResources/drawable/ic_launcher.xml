@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#0061A4" android:pathData="M0,0h108v108h-108z" />
+    <!-- Minimalist Speaker Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,42 L34,66 L46,66 L62,82 L62,26 L46,42 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M74,40C80,48 80,60 74,68" />
+</vector>

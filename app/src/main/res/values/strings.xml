@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuickVolume</string>
+    <string name="title_media">Media</string>
+    <string name="title_ring">Ringtone</string>
+    <string name="title_alarm">Alarm</string>
+    <string name="title_notification">Notification</string>
+    <string name="title_call">Voice Call</string>
+    <string name="mode_normal">Normal</string>
+    <string name="mode_vibrate">Vibrate</string>
+    <string name="grant_dnd_access">Grant Do Not Disturb access</string>
+    <string name="dnd_explanation">Android requires \"Do Not Disturb\" access to switch between Normal, Vibrate and Silent. Tap to grant it.</string>
+    <string name="floating_bubble_toggle">Show floating volume bubble</string>
+    <string name="overlay_permission_needed">Please allow \"Display over other apps\" so the floating bubble can appear.</string>
+    <string name="widget_name">QuickVolume Controls</string>
+    <string name="volume_dashboard">Volume Dashboard</string>
+    <string name="ringer_mode_label">Ringer Mode</string>
+    <string name="floating_bubble_title">On-Screen Bubble</string>
+    <string name="floating_bubble_desc">Floating volume control overlay</string>
+    <string name="mode_dnd">DND</string>
+    <string name="volume_panel">Volume Panel</string>
+    <string name="label_volume_streams">Volume Streams</string>
+    <string name="percentage_format">%1$d%%</string>
+</resources>

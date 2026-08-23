@@ -1,0 +1,8 @@
+com.quick.volume.app-pngs-0 E:\github.com\QuickVolume\app\build\generated\res\pngs\debug
+com.quick.volume.app-updated_navigation_xml-1 E:\github.com\QuickVolume\app\build\generated\updated_navigation_xml\debug
+com.quick.volume.app-packageDebugResources-2 E:\github.com\QuickVolume\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.quick.volume.app-packageDebugResources-3 E:\github.com\QuickVolume\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.quick.volume.app-debug-4 E:\github.com\QuickVolume\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.quick.volume.app-debug-5 E:\github.com\QuickVolume\app\src\debug\res
+com.quick.volume.app-main-6 E:\github.com\QuickVolume\app\src\main\res
+gradleHome-0 C:\Users\MD RONY HOSSEN\.gradle

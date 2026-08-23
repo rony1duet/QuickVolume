@@ -1,0 +1,38 @@
+<resources>
+    <!-- Material 3 Light Color Palette (Professional Blue) -->
+    <color name="primary">#0061A4</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#D1E4FF</color>
+    <color name="onPrimaryContainer">#001D36</color>
+
+    <color name="secondary">#535F70</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#D7E3F7</color>
+    <color name="onSecondaryContainer">#101C2B</color>
+
+    <color name="tertiary">#6B5778</color>
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="tertiaryContainer">#F2DAFF</color>
+    <color name="onTertiaryContainer">#251431</color>
+
+    <color name="error">#BA1A1A</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="errorContainer">#FFDAD6</color>
+    <color name="onErrorContainer">#410002</color>
+
+    <color name="background">#F8F9FF</color>
+    <color name="onBackground">#191C20</color>
+    <color name="surface">#F8F9FF</color>
+    <color name="onSurface">#191C20</color>
+    <color name="surfaceVariant">#DFE2EB</color>
+    <color name="onSurfaceVariant">#43474E</color>
+    <color name="outline">#73777F</color>
+    <color name="outlineVariant">#C3C7CF</color>
+
+    <!-- M3 Surface Containers -->
+    <color name="surfaceContainerLowest">#FFFFFF</color>
+    <color name="surfaceContainerLow">#F2F3F9</color>
+    <color name="surfaceContainer">#ECEDF4</color>
+    <color name="surfaceContainerHigh">#E6E8EE</color>
+    <color name="surfaceContainerHighest">#E0E2E9</color>
+</resources>
