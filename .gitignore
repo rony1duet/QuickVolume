@@ -12,4 +12,16 @@
 /captures
 .externalNativeBuild
 .cxx
+
+# Project-specific
+.artifacts/
+.kotlin/
+
+# Build artifacts
+**/build/
+captures/
+*.apk
+*.aar
+
+# User-specific / Secrets
 local.properties
